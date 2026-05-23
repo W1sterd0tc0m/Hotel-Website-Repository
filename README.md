@@ -11,7 +11,7 @@ A practice Hotel website with a modern minimalistic design
 
 ## How to load it
 
-The website can be loaded by clicking on the Github pages link in the settings or checking under deployments.
+The website can be loaded by clicking this link: https://w1sterd0tc0m.github.io/Hotel-Website-Repository/
 
 It can also be downloaded and ran by downloading the repository and executing the index.html file.
 
